@@ -10,7 +10,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 
 ## Labs
 
-
+- [x] [Prerequisite Coding](./Labs/lab01.ipynb)
 
 ## Hws
 
