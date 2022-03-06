@@ -15,7 +15,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 
 ## Hws
 
-
+- [x] [Hw02. Sampling Error and Bias](./Hws/hw2.ipynb)
 
 ## Projects
 
