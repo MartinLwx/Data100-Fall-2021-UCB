@@ -17,6 +17,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 ## Hws
 
 - [x] [Hw02. Sampling Error and Bias](./Hws/hw2.ipynb)
+- [x] [Hw03. Food Safety](./Hws/hw03/hw03.ipynb)
 
 ## Projects
 
