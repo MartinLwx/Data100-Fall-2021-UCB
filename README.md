@@ -13,6 +13,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 - [x] [Lab01. Prerequisite Coding](./Labs/lab01.ipynb)
 - [x] [Lab02. Pandas](./Labs/lab02.ipynb)
 - [x] [Lab03. Data cleaning and Visualization](./Labs/lab03.ipynb)
+- [x] [Lab04. SQL](./Labs/lab04.ipynb)
 
 ## Hws
 
