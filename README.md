@@ -22,6 +22,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 - [x] [Hw03. Food Safety](./Hws/hw03/hw3.ipynb)
 - [x] [Hw04. Tweets](./Hws/hw04/hw4.ipynb)
 - [x] [Hw05. SQL](./Hws/hw05.ipynb)
+- [x] [Hw06. Bike Sharing](./Hws/hw06/hw6.ipynb)
 
 ## Projects
 
