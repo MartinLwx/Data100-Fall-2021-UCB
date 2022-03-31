@@ -15,6 +15,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 - [x] [Lab03. Data cleaning and Visualization](./Labs/lab03.ipynb)
 - [x] [Lab04. SQL](./Labs/lab04.ipynb)
 - [x] [Lab05. Transformations and SQL](./Labs/lab05.ipynb)
+- [x] [Lab06. Modeling, Summary Statistics, and Loss Functions](./Labs/lab06.ipynb)
 
 ## Hws
 
