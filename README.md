@@ -17,6 +17,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 - [x] [Lab05. Transformations and SQL](./Labs/lab05.ipynb)
 - [x] [Lab06. Modeling, Summary Statistics, and Loss Functions](./Labs/lab06.ipynb)
 - [x] [Lab07. Simple Linear Regression](./Labs/lab07.ipynb)
+- [x] [Lab08. Multiple Linear Regression & Feature Engineering](./Labs/lab08.ipynb)
 
 ## Hws
 
