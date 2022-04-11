@@ -30,6 +30,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 - [x] [Hw05. SQL](./Hws/hw05.ipynb)
 - [x] [Hw06. Bike Sharing](./Hws/hw06/hw6.ipynb)
 - [x] [Hw08. Housing I](./Hws/hw08/hw8.ipynb)
+- [x] [Hw10. PCA](./Hws/hw10/hw10.ipynb)
 
 ## Projects
 
