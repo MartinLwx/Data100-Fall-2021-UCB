@@ -6,7 +6,7 @@ This is my personal learning record for Data100-Fall-2021 of UC-Berkeley.
 
 
 
-The official website: https://ds100.org/fa21/. **If you want a better reading experience, you may visit my [blog](https://martinlwx.github.io).**
+The official website: https://ds100.org/fa21/. 
 
 ## Labs
 
@@ -31,6 +31,7 @@ The official website: https://ds100.org/fa21/. **If you want a better reading ex
 - [x] [Hw06. Bike Sharing](./Hws/hw06/hw6.ipynb)
 - [x] [Hw08. Housing I](./Hws/hw08/hw8.ipynb)
 - [x] [Hw10. PCA](./Hws/hw10/hw10.ipynb)
+- [x] [Hw11. Gradient Descent and Logistic Regression](./Hws/hw11/hw11.ipynb)
 
 ## Projects
 
