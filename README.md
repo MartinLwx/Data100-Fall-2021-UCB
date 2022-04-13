@@ -21,6 +21,7 @@ The official website: https://ds100.org/fa21/.
 - [x] [Lab09. Content Review](./Labs/lab09.ipynb)
 - [x] [Lab10. Cross-Validation and Regularization](./Labs/lab10/lab10.ipynb)
 - [x] [Lab11. PCA](./Labs/lab11/lab11.ipynb)
+- [x] [Lab12. Climate Data](./Labs/lab12/lab12.ipynb)
 
 ## Hws
 
