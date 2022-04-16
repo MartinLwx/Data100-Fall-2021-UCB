@@ -34,6 +34,7 @@ The official website: https://ds100.org/fa21/.
 - [x] [Hw08. Housing I](./Hws/hw08/hw8.ipynb)
 - [x] [Hw10. PCA](./Hws/hw10/hw10.ipynb)
 - [x] [Hw11. Gradient Descent and Logistic Regression](./Hws/hw11/hw11.ipynb)
+- [x] [Hw12. Spam & Ham I](./Hws/hw12/hw12.ipynb)
 
 ## Projects
 
