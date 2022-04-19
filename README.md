@@ -23,6 +23,7 @@ The official website: https://ds100.org/fa21/.
 - [x] [Lab11. PCA](./Labs/lab11/lab11.ipynb)
 - [x] [Lab12. Climate Data](./Labs/lab12/lab12.ipynb)
 - [x] [Lab13. Logistic Regression](./Labs/lab13/lab13.ipynb)
+- [x] [Lab14. Decision Trees & Random Forests](./Labs/lab14.ipynb)
 - [x] [Lab15. Clustering](./Labs/lab15.ipynb)
 
 ## Hws
