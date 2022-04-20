@@ -34,6 +34,7 @@ The official website: https://ds100.org/fa21/.
 - [x] [Hw05. SQL](./Hws/hw05.ipynb)
 - [x] [Hw06. Bike Sharing](./Hws/hw06/hw6.ipynb)
 - [x] [Hw08. Housing I](./Hws/hw08/hw8.ipynb)
+- [x] [Hw09. Housing II](./Hws/hw9.ipynb)
 - [x] [Hw10. PCA](./Hws/hw10/hw10.ipynb)
 - [x] [Hw11. Gradient Descent and Logistic Regression](./Hws/hw11/hw11.ipynb)
 - [x] [Hw12. Spam & Ham I](./Hws/hw12/hw12.ipynb)
