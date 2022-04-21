@@ -41,7 +41,8 @@ The official website: https://ds100.org/fa21/.
 - [x] [Hw14. Taxis](./Hws/hw14/hw14.ipynb)
 
 ## Projects
-
+- [x] [COVID Part I](./Projs/COVID/covid_part1.ipynb)
+- [x] [COVID Part II](./Projs/COVID_Part2/covid_part2.ipynb)
 
 
 ## Looking for answers for other cs-courses ?
