@@ -1,12 +1,14 @@
-# Data100-Fall-2021
-
 ## Hi 👋
 
 This is my personal learning record for Data100-Fall-2021 of UC-Berkeley. 
 
 
 
-The official website: https://ds100.org/fa21/. 
+The official website: <https://ds100.org/fa21/>. 
+
+## Resources
+All materials can be found on this offical page: <https://ds100.org/fa21/>
+
 
 ## Labs
 
